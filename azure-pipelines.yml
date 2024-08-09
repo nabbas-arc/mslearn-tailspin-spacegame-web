@@ -1,8 +1,7 @@
 trigger:
   - "*"
 
-pool:
-  vmImage: ubuntu-latest
+pool: Nasir-PC
 
 variables:
   buildConfiguration: "Release"
